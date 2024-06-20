@@ -43267,7 +43267,7 @@ r.qk()
 return A.ME(new A.o0(q),A.acA(A.ie(A.b([B.EZ,B.OG,new A.c1(o.a.a,p.a.b*0.9,new A.Om(A.a62(s,r,t.__),q),B.VE)],t.p),B.aJ,B.aq,B.bx),q),q)}}
 A.o0.prototype={
 J(a){var s=null,r=t.p
-r=A.bB(a,s,t.w).w.a.a>500?A.b([A.O2(A.adG(B.Fg,B.TF,new A.a_E()),"Home"),A.O2(A.adG(B.Fk,B.TD,new A.a_F()),"Register"),A.O2(A.adG(B.Fh,B.Tz,new A.a_G()),"Vocation Training"),A.O2(A.adG(B.Ff,B.TC,new A.a_H()),"Partner")],r):A.b([new A.tf(new A.a_I(),new A.a_J(),s,t.iX)],r)
+r=A.bB(a,s,t.w).w.a.a>500?A.b([A.O2(A.adG(B.Fg,B.TF,new A.a_E()),"Home"),A.O2(A.adG(B.Fk,B.TD,new A.a_F()),"Register"),A.O2(A.adG(B.Fh,B.TA,new A.a_G()),"Vocation Training"),A.O2(A.adG(B.Ff,B.TC,new A.a_H()),"Partner")],r):A.b([new A.tf(new A.a_I(),new A.a_J(),s,t.iX)],r)
 return new A.wb(B.Mw,r,2,B.k,!1,new A.TC(s,s,1/0,56),s)}}
 A.a_E.prototype={
 $0(){A.jm($.bs(),new A.iu(null),t.z)},
@@ -43296,7 +43296,7 @@ $1(a){return A.b([B.M5,B.M6,B.M7,B.M4],t.Do)},
 $S:231}
 A.Li.prototype={
 J(a){var s=this,r=null,q=t.fo
-return A.ME(new A.o0(r),new A.bQ(B.jh,A.aqB(A.ie(A.b([A.fB(s.e,B.nA,r,new A.a8s()),new A.c1(r,20,r,r),A.fB(s.f,B.Fu,B.PV,new A.a8t()),new A.c1(r,20,r,r),A.auD(B.Fv,A.ah(new A.as(A.b(["Yes","No"],t.s),new A.a8u(),q),!0,q.i("aQ.E")),new A.a8v(s),new A.a8w(),r,t.N),new A.c1(r,20,r,r),A.fB(s.w,B.FF,B.PU,new A.a8x()),B.az,A.aqp(B.Tw,new A.a8y(s),A.aqq(r,r,B.i,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)),B.az,B.TG,B.Ox,B.Tp,B.TB],t.p),B.aJ,B.aq,B.bx),s.d),r),r)}}
+return A.ME(new A.o0(r),new A.bQ(B.jh,A.aqB(A.ie(A.b([A.fB(s.e,B.nA,r,new A.a8s()),new A.c1(r,20,r,r),A.fB(s.f,B.Fu,B.PV,new A.a8t()),new A.c1(r,20,r,r),A.auD(B.Fv,A.ah(new A.as(A.b(["Yes","No"],t.s),new A.a8u(),q),!0,q.i("aQ.E")),new A.a8v(s),new A.a8w(),r,t.N),new A.c1(r,20,r,r),A.fB(s.w,B.FF,B.PU,new A.a8x()),B.az,A.aqp(B.Tx,new A.a8y(s),A.aqq(r,r,B.i,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r)),B.az,B.TG,B.Ox,B.Tp,B.TB],t.p),B.aJ,B.aq,B.bx),s.d),r),r)}}
 A.a8s.prototype={
 $1(a){if(a==null||a.length===0)return"Please enter your full name"
 return null},
@@ -43518,7 +43518,7 @@ r=new A.ba(p,t.am)
 n=A.fO(B.i,2)
 o=A.es(10)
 q=t.p
-return A.ME(new A.o0(p),A.acA(A.ie(A.b([B.EV,new A.bQ(B.Ey,A.aqB(A.ie(A.b([B.az,A.c2(p,new A.bQ(B.aU,A.ie(A.b([A.dh("Registration Fees: 50 cedis. Ref. VT ",p,p,p,A.k1().$2$color$fontSize(B.k,16),p,p),A.dh("Every payment should be made to our ministry lines: MTN MOMO 059875605 Joycelyn Mac-Andoh OR  TELECELCASH: 0502562131 (Joycelyn Mac-Andoh)",p,p,p,A.k1().$2$color$fontSize(B.k,16),p,p)],q),B.aJ,B.aq,B.bx),p),B.m,p,p,new A.bU(B.i,p,n,o,p,p,B.Y),p,p,p,p,p,p,p,p),B.az,B.Tx,A.fB(this.d,B.nA,p,new A.anr()),B.az,A.fB(this.e,B.Fz,p,new A.ans()),B.az,A.aqp(B.Ty,new A.ant(this,r,s),A.aqq(p,p,B.i,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p))],q),B.aJ,B.aq,B.bx),r),p)],q),B.aJ,B.aq,B.bx),p),p)}}
+return A.ME(new A.o0(p),A.acA(A.ie(A.b([B.EV,new A.bQ(B.Ey,A.aqB(A.ie(A.b([B.az,A.c2(p,new A.bQ(B.aU,A.ie(A.b([A.dh("Registration Fees: 50 cedis. Ref. VT ",p,p,p,A.k1().$2$color$fontSize(B.k,16),p,p),A.dh("Every payment should be made to our ministry lines: MTN MOMO 059875605 Joycelyn Mac-Andoh OR  TELECELCASH: 0502562131 (Joycelyn Mac-Andoh)",p,p,p,A.k1().$2$color$fontSize(B.k,16),p,p)],q),B.aJ,B.aq,B.bx),p),B.m,p,p,new A.bU(B.i,p,n,o,p,p,B.Y),p,p,p,p,p,p,p,p),B.az,B.Ty,A.fB(this.d,B.nA,p,new A.anr()),B.az,A.fB(this.e,B.Fz,p,new A.ans()),B.az,A.aqp(B.Tz,new A.ant(this,r,s),A.aqq(p,p,B.i,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p))],q),B.aJ,B.aq,B.bx),r),p)],q),B.aJ,B.aq,B.bx),p),p)}}
 A.anr.prototype={
 $1(a){if(a.length===0)return"Please enter your full name"
 return null},
@@ -89854,8 +89854,8 @@ B.EX=new A.J0(3,"high")
 B.EY=new A.rf("AIzaSyCR83c74syjpAvG-eOVnnl4QzGAgzCBjKg","1:621763371413:web:7d8ea9f5d342001a2f169c","621763371413","blnproject-690c2","blnproject-690c2.firebaseapp.com",null,"blnproject-690c2.appspot.com",null,null,null,null,null,null,null)
 B.cf=new A.eZ(6,700)
 B.RE=new A.u(!0,null,null,null,null,null,100,B.cf,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.TA=new A.cZ("Sermon On the Mount 2024",null,B.RE,null,null,null,null,null,null,null)
-B.EZ=new A.xD(B.TA,null)
+B.Ts=new A.cZ("SERMON ON THE MOUNT 2024",null,B.RE,null,null,null,null,null,null,null)
+B.EZ=new A.xD(B.Ts,null)
 B.n=new A.D(0,0)
 B.F_=new A.J4(B.n,B.n)
 B.n7=new A.J8(0,"tight")
@@ -90081,8 +90081,8 @@ B.nL=A.b(s([B.A0,B.A1,B.A2]),A.ae("y<qw>"))
 B.H3=A.b(s([B.iq,B.ir]),A.ae("y<wd>"))
 B.H4=A.b(s(["BC","AD"]),t.s)
 B.nM=A.b(s(["J","F","M","A","M","J","J","A","S","O","N","D"]),t.s)
-B.Tt=new A.cZ("Male",null,null,null,null,null,null,null,null,null)
-B.Eb=new A.fV("Male",B.Tt,B.d0,null,t.b7)
+B.Tu=new A.cZ("Male",null,null,null,null,null,null,null,null,null)
+B.Eb=new A.fV("Male",B.Tu,B.d0,null,t.b7)
 B.To=new A.cZ("Female",null,null,null,null,null,null,null,null,null)
 B.Ec=new A.fV("Female",B.To,B.d0,null,t.b7)
 B.H7=A.b(s([B.Eb,B.Ec]),A.ae("y<fV<o>>"))
@@ -91243,8 +91243,8 @@ B.ue=new A.KV(0,"portrait")
 B.uf=new A.KV(1,"landscape")
 B.Ld=new A.z9(null)
 B.Qh=new A.u(!0,B.k,null,null,null,null,50,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Ts=new A.cZ("The Sermon on the Mount 2024 will feature a special vocational training for interested participants. This training will focus on equipping attendees with the skills needed to create delicious cakes, pastries, and fresh yogurt.",null,B.Qh,null,null,!0,null,null,null,null)
-B.Le=new A.bQ(B.aU,B.Ts,null)
+B.Tt=new A.cZ("The Sermon on the Mount 2024 will feature a special vocational training for interested participants. This training will focus on equipping attendees with the skills needed to create delicious cakes, pastries, and fresh yogurt.",null,B.Qh,null,null,!0,null,null,null,null)
+B.Le=new A.bQ(B.aU,B.Tt,null)
 B.bK=new A.Lh(0,"fill")
 B.a6=new A.Lh(1,"stroke")
 B.Lf=new A.mv(1/0)
@@ -91283,16 +91283,16 @@ B.M1=new A.te(1,"scroll")
 B.M2=new A.te(3,"scale")
 B.M3=new A.te(4,"unknown")
 B.Fo=new A.ey(B.ny,null,null,null)
-B.Tu=new A.cZ("Partner",null,null,null,null,null,null,null,null,null)
-B.Gb=new A.oI(B.Fo,B.Tu,null)
+B.Tv=new A.cZ("Partner",null,null,null,null,null,null,null,null,null)
+B.Gb=new A.oI(B.Fo,B.Tv,null)
 B.M4=new A.mE("Partner",B.Gb,null,t.wI)
 B.Fn=new A.ey(B.nv,null,null,null)
 B.Tq=new A.cZ("Home",null,null,null,null,null,null,null,null,null)
 B.G9=new A.oI(B.Fn,B.Tq,null)
 B.M5=new A.mE("Home",B.G9,null,t.wI)
 B.Fl=new A.ey(B.ns,null,null,null)
-B.Tv=new A.cZ("Register",null,null,null,null,null,null,null,null,null)
-B.G8=new A.oI(B.Fl,B.Tv,null)
+B.Tw=new A.cZ("Register",null,null,null,null,null,null,null,null,null)
+B.G8=new A.oI(B.Fl,B.Tw,null)
 B.M6=new A.mE("Register",B.G8,null,t.wI)
 B.Fi=new A.ey(B.nu,null,null,null)
 B.TH=new A.cZ("Vocation Training",null,null,null,null,null,null,null,null,null)
@@ -91927,11 +91927,11 @@ B.Tn=new A.e5(B.S4,B.QT,B.Sg,B.Qj,B.SU,B.QG,B.Q6,B.QH,B.QX,B.Rp,B.RJ,B.QZ,B.R2,B
 B.Tp=new A.cZ("MTN MOMO NUMBER: 059875605 (Joycelyn Mac-Andoh)",null,null,null,null,null,null,null,null,null)
 B.kV=new A.u(!0,B.k,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Tr=new A.cZ("Register Now",null,B.kV,null,null,null,null,null,null,null)
-B.Tw=new A.cZ("Partner Now",null,B.kV,null,null,null,null,null,null,null)
-B.Tx=new A.cZ("Participate Now",null,null,null,null,null,null,null,null,null)
-B.Ty=new A.cZ("Register for Training",null,B.kV,null,null,null,null,null,null,null)
+B.Tx=new A.cZ("Partner Now",null,B.kV,null,null,null,null,null,null,null)
+B.Ty=new A.cZ("Participate Now",null,null,null,null,null,null,null,null,null)
+B.Tz=new A.cZ("Register for Training",null,B.kV,null,null,null,null,null,null,null)
 B.hU=new A.u(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Tz=new A.cZ("Vocation Training",null,B.hU,null,null,null,null,null,null,null)
+B.TA=new A.cZ("Vocation Training",null,B.hU,null,null,null,null,null,null,null)
 B.TB=new A.cZ("TELECELCASH: 0502562131 (Joycelyn Mac-Andoh)",null,null,null,null,null,null,null,null,null)
 B.TC=new A.cZ("Partner",null,B.hU,null,null,null,null,null,null,null)
 B.TD=new A.cZ("Register",null,B.hU,null,null,null,null,null,null,null)

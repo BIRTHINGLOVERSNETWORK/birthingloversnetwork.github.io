@@ -43331,7 +43331,7 @@ A.K4.prototype={
 J(a){var s=null
 return A.AD(new A.m4(s),A.kh(A.hs(A.b([B.CA,B.TP,B.af,A.a28(B.TB,new A.a6t(),s)],t.p),B.aD,B.tU,B.bj),s,s),s)}}
 A.a6t.prototype={
-$0(){var s=window.open("https://chat.whatsapp.com/BHNfj2NIvMO7oazku3OvY4","new_tab")
+$0(){var s=window.open("https://chat.whatsapp.com/EsgsTjetyD5KsI5u81U3Lf","new_tab")
 A.aJP(s)},
 $S:0}
 A.Lx.prototype={

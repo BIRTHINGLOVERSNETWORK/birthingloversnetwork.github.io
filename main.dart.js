@@ -43503,8 +43503,8 @@ return A.f6(s.ax,B.FG,r,null,new A.ala(s))},
 $S:241}
 A.ala.prototype={
 $1(a){var s=this.a.d,r=s.gm(0)
-if(J.d(r,"Yes")&&a==null||a.length===0)return"Please enter the name of the fellowship or church."
-else{s=s.gm(0)
+if(J.d(r,"Yes")){if(a==null||a.length===0)return"Please enter the name of the fellowship or church."
+return null}else{s=s.gm(0)
 if(J.d(s,"No"))return null}return null},
 $S:10}
 A.ali.prototype={

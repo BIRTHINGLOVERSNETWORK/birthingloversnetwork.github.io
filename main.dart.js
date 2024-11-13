@@ -8021,8 +8021,7 @@ while(true)switch(s){case 0:if($.W==null)A.PX()
 $.W.toString
 s=2
 return A.P(A.a4F(A.aJX()),$async$au2)
-case 2:window.location.href="https://bit.ly/PCCREVIVAL"
-if($.W==null)A.PX()
+case 2:if($.W==null)A.PX()
 q=$.W
 q.toString
 p=$.aG()
